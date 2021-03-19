@@ -46,5 +46,9 @@ Map<String, Object[]> studentData = new TreeMap<String,Object[]>();
 
 ## Result- 		
 
+![Screenshot from 2021-03-19 18-36-13](https://user-images.githubusercontent.com/43197101/111787211-ae1d2a00-88e4-11eb-8624-fedbd526cc69.png)
+
+![Screenshot from 2021-03-19 18-15-42](https://user-images.githubusercontent.com/43197101/111787189-a9587600-88e4-11eb-9519-4f029b73e4d4.png)
+
 
 
