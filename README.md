@@ -1,4 +1,4 @@
-# Read And Write Data from Excel Sheet Using Apache POI
+# Read and Write Data from Excel Sheet Using Apache POI
 This template will help you to have a Read the data from Excel sheet and also Write to Data to Excel sheet Using Apache POI.
 ## What is the Apache POI
 * Apache POI is basically an open source Java library developed by Apache which provides an API for read and write data in Excel sheet using Java programs. 
